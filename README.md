@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola 👋
+Soy una desarrolladora web especializada en la creación de interfaces atractivas y funcionales. Mi experiencia abarca tecnologías como HTML, CSS, JavaScript, Bootstrap y MySQL, lo que me permite construir soluciones efectivas y optimizadas. Además, tengo un sólido conocimiento en la gestión de CRM y un enfoque especial en la optimización web, garantizando una experiencia fluida para los usuarios.
+
+Actualmente trabajando como developer de manera remora, aprendiendo más de las pruebas de calidad, terminando un bootcamp de QA.
+
+;)
 
 <!--
 **Mermib/mermib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
