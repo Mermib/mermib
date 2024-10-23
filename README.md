@@ -1,5 +1,5 @@
 ## Hola 👋
-Soy una desarrolladora web especializada en la creación de interfaces atractivas y funcionales. Mi experiencia abarca tecnologías como HTML, CSS, JavaScript, Bootstrap y MySQL, lo que me permite construir soluciones efectivas y optimizadas. Además, tengo un sólido conocimiento en la gestión de CRM y un enfoque especial en la optimización web, garantizando una experiencia fluida para los usuarios.
+Soy una desarrolladora web especializada en la creación de interfaces atractivas y funcionales. Lo que me permite construir soluciones efectivas y optimizadas. Tengo un enfoque especial en la optimización web, garantizando una experiencia fluida para los usuarios.
 
 Actualmente trabajando como developer de manera remora, aprendiendo más de las pruebas de calidad, terminando un bootcamp de QA.
 
